@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @inventosete
-- 👀 I’m interested in improving my tech vision 
-- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on garbage seperation technologies
 - 📫 How to reach me: "zeyy.111111@gmail.com"
 
